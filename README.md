@@ -7,6 +7,11 @@ Initial concept based on [this instructable](http://www.instructables.com/id/Tra
 
 There will be changes made as I incoporate modifications to my tastes.
 
+Installation
+------------
+
+To install, clone this file into your home directory.
+
 ## Changes from the original fork
 
 
@@ -26,12 +31,12 @@ invesment strategy.
 Requirements
 ------------
 
-googlefinance
-ystockquote
-python-dateutil
-pytz
-requests
-telepot
+-  googlefinance
+-  ystockquote
+-  python-dateutil
+-  pytz
+-  requests
+-  telepot
 
 Version history
 ---------------

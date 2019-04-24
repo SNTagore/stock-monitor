@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-cd /home/fernando/bolsa
+cd $HOME/stock-market
 python stock_telegrambot.py &
